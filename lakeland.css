@@ -23,6 +23,7 @@ body {
   width: 960px;
   margin: 0 auto;
   padding-bottom: 20px;
+  border: 1px solid transparent;
   font-family: tahoma, arial, helvetica, sans-serif;
   background: #6a93c8;
   background: url("images/good.png");
