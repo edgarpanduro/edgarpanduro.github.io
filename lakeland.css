@@ -1,4 +1,3 @@
-﻿/* Lakeland Reeds Bed and Breakfast */
 /*WebProgrammer Edgar_Panduro HTML5 UnitI*/
 @font-face {
   font-family: 'CuprumFFURegular';
@@ -23,6 +22,7 @@ ol, ul {
 body {
   width: 960px;
   margin: 0 auto;
+  padding-bottom: 20px;
   font-family: tahoma, arial, helvetica, sans-serif;
   background: #6a93c8;
   background: url("images/good.png");
