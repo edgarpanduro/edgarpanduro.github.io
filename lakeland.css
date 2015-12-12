@@ -316,4 +316,24 @@ a:active {
   float: left;
   line-height: 0.8em;
   }
+ @media only screen and (max-device-width: 1024px) {
+    figure {
+      display: none;
+    }
+    #content {
+      margin: 0.25em;
+    }
+    #mainnav {
+      padding: 0.25em;
+      width: 100%;
+      position: static;
+      left: 0;
+    }
+    .desktop {
+      display: none;
+    }
+    .mobile {
+      display: block;
+    }
+  }
   
